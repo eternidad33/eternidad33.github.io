@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>随笔 on Vigilr的博客</title>
+    <link>https://eternidad33.github.io/tags/%E9%9A%8F%E7%AC%94/</link>
+    <description>Recent content in 随笔 on Vigilr的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://eternidad33.github.io/tags/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>网站推荐</title>
+      <link>https://eternidad33.github.io/posts/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eternidad33.github.io/posts/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</guid>
+      <description>学习类 中国大学MOOC（涵盖各个行业的课程）
+慕课网（计算机互联网行业学习的网站）
+哔哩哔哩（各个领域的UP主）
+w3cSchool（学习编程）
+廖雪峰的官方网站（学习编程）
+菜鸟教程（学习编程）
+实验楼（学习编程）
+数据酷客（学习Python，大数据）
+阿里云大学(提供编程各个方向的学习路线)
+how2j（学习Java）
+素材类 微信读书（只要有无限卡，全场免费读）
+鸠摩搜书（基本上想搜的书都能搜到）
+Greasy Fork（配合油猴插件下载脚本）
+MSDN，我告诉你（免费下载纯净的Windows系统镜像）
+我的MSDN（免费下载纯净的Windows系统镜像）
+电脑壁纸（免费好看的桌面壁纸）
+阿里巴巴矢量图标库（下载各种格式的图标）
+第一PPT（免费PPT模板）
+优品PPT（免费PPT模板）
+站长素材（下载图标，字体，PSD，矢量图，jQuery等）
+编程相关 ProcessOn（在线作图）
+GitHub（ 世界上最大的软件项目的托管平台 ）
+码云（相当于国内的GitHub）
+牛客（刷题）
+LeetCode（刷题）
+洛谷（刷题）
+wakatime（记录编码时间）
+SM.MS（图床工具）
+Shields.IO（生成展示在Markdown文档中的徽章）
+Simple Icons（下载SVG图标）</description>
+    </item>
+    
+  </channel>
+</rss>

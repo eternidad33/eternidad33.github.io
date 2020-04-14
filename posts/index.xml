@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vigilr的博客</title>
+    <link>https://eternidad33.github.io/posts/</link>
+    <description>Recent content in Posts on Vigilr的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://eternidad33.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>m10c主题配置</title>
+      <link>https://eternidad33.github.io/posts/m10c%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eternidad33.github.io/posts/m10c%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</guid>
+      <description>m10c主题配置 主题地址：GitHub仓库地址
+title = &amp;#34;Vigilr的博客&amp;#34;[params]description = &amp;#34;宁为玉碎，不为瓦全&amp;#34;avatar = &amp;#34;avatar.jpg&amp;#34;[[params.social]]name = &amp;#34;github&amp;#34;url = &amp;#34;https://github.com/eternidad33&amp;#34;[[params.social]]name = &amp;#34;mail&amp;#34;url = &amp;#34;mailto:3496655347@qq.com&amp;#34;[[params.social]]name = &amp;#34;link&amp;#34;url = &amp;#34;https://blog.csdn.net/qq_42907802&amp;#34;主题仓库要下载到站点目录/themes下
+文章目录为：站点目录/content/posts
+头像的路径：站点目录/static/avatar.jpg
+只是简单地设计了几个链接，链接的图标在主题目录/data/m10c/icons.json文件中定义
+博客启动：hugo server -t hugo-theme-m10c -D
+浏览器访问:http://localhost:1313/
+至此博客启动成功</description>
+    </item>
+    
+    <item>
+      <title>Hugo博客搭建</title>
+      <link>https://eternidad33.github.io/posts/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eternidad33.github.io/posts/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+      <description>Hugo博客搭建 本地部署 推荐视频：手把手教你从0开始搭建自己的个人博客 |第二种姿势 | hugo
+  下载Hugo，下载地址：GitHub
+  配置环境变量
+  创建自己的站点文件夹hugo new site myHugoSite
+生成的目录如下：
+PS C:\Users\Administrator\Desktop\myHogoSite&amp;gt; tree /f文件夹 PATH 列表卷序列号为 2A8A-01A5C:.│ config.toml│├─archetypes│ default.md│├─content├─data├─layouts├─static└─themes  新建文章
+在content目录下生成博客hugo new 我的第一篇博客.md
+在content/posts目录下生成博客hugo new posts/我的第二篇博客.md
+  下载m10c主题并配置
+  部署到GitHub  创建远程仓库,仓库名必须为用户名.github.io 生成public文件夹hugo -t 主题名 -b https://用户名.github.io -D 然后就是一系列git操作 进入public，初始化git仓库 添加到暂存区 提交仓库 连接远程仓库 推送到远程仓库  不清楚的命令可以通过hugo help查看</description>
+    </item>
+    
+    <item>
+      <title>网站推荐</title>
+      <link>https://eternidad33.github.io/posts/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eternidad33.github.io/posts/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</guid>
+      <description>学习类 中国大学MOOC（涵盖各个行业的课程）
+慕课网（计算机互联网行业学习的网站）
+哔哩哔哩（各个领域的UP主）
+w3cSchool（学习编程）
+廖雪峰的官方网站（学习编程）
+菜鸟教程（学习编程）
+实验楼（学习编程）
+数据酷客（学习Python，大数据）
+阿里云大学(提供编程各个方向的学习路线)
+how2j（学习Java）
+素材类 微信读书（只要有无限卡，全场免费读）
+鸠摩搜书（基本上想搜的书都能搜到）
+Greasy Fork（配合油猴插件下载脚本）
+MSDN，我告诉你（免费下载纯净的Windows系统镜像）
+我的MSDN（免费下载纯净的Windows系统镜像）
+电脑壁纸（免费好看的桌面壁纸）
+阿里巴巴矢量图标库（下载各种格式的图标）
+第一PPT（免费PPT模板）
+优品PPT（免费PPT模板）
+站长素材（下载图标，字体，PSD，矢量图，jQuery等）
+编程相关 ProcessOn（在线作图）
+GitHub（ 世界上最大的软件项目的托管平台 ）
+码云（相当于国内的GitHub）
+牛客（刷题）
+LeetCode（刷题）
+洛谷（刷题）
+wakatime（记录编码时间）
+SM.MS（图床工具）
+Shields.IO（生成展示在Markdown文档中的徽章）
+Simple Icons（下载SVG图标）</description>
+    </item>
+    
+  </channel>
+</rss>
