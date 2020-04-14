@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Vigilr的博客</title>
+    <link>https://eternidad33.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on Vigilr的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://eternidad33.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>m10c主题配置</title>
+      <link>https://eternidad33.github.io/posts/m10c%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eternidad33.github.io/posts/m10c%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</guid>
+      <description>m10c主题配置 主题地址：GitHub仓库地址
+title = &amp;#34;Vigilr的博客&amp;#34;[params]description = &amp;#34;宁为玉碎，不为瓦全&amp;#34;avatar = &amp;#34;avatar.jpg&amp;#34;[[params.social]]name = &amp;#34;github&amp;#34;url = &amp;#34;https://github.com/eternidad33&amp;#34;[[params.social]]name = &amp;#34;mail&amp;#34;url = &amp;#34;mailto:3496655347@qq.com&amp;#34;[[params.social]]name = &amp;#34;link&amp;#34;url = &amp;#34;https://blog.csdn.net/qq_42907802&amp;#34;主题仓库要下载到站点目录/themes下
+文章目录为：站点目录/content/posts
+头像的路径：站点目录/static/avatar.jpg
+只是简单地设计了几个链接，链接的图标在主题目录/data/m10c/icons.json文件中定义
+博客启动：hugo server -t hugo-theme-m10c -D
+浏览器访问:http://localhost:1313/
+至此博客启动成功</description>
+    </item>
+    
+    <item>
+      <title>Hugo博客搭建</title>
+      <link>https://eternidad33.github.io/posts/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eternidad33.github.io/posts/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+      <description>Hugo博客搭建 本地部署 推荐视频：手把手教你从0开始搭建自己的个人博客 |第二种姿势 | hugo
+  下载Hugo，下载地址：GitHub
+  配置环境变量
+  创建自己的站点文件夹hugo new site myHugoSite
+生成的目录如下：
+PS C:\Users\Administrator\Desktop\myHogoSite&amp;gt; tree /f文件夹 PATH 列表卷序列号为 2A8A-01A5C:.│ config.toml│├─archetypes│ default.md│├─content├─data├─layouts├─static└─themes  新建文章
+在content目录下生成博客hugo new 我的第一篇博客.md
+在content/posts目录下生成博客hugo new posts/我的第二篇博客.md
+  下载m10c主题并配置
+  部署到GitHub  创建远程仓库,仓库名必须为用户名.github.io 生成public文件夹hugo -t 主题名 -b https://用户名.github.io -D 然后就是一系列git操作 进入public，初始化git仓库 添加到暂存区 提交仓库 连接远程仓库 推送到远程仓库  不清楚的命令可以通过hugo help查看</description>
+    </item>
+    
+  </channel>
+</rss>
