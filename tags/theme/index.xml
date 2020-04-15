@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>theme on Vigilr的博客</title>
+    <link>https://eternidad33.github.io/tags/theme/</link>
+    <description>Recent content in theme on Vigilr的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 我无敌，你随意</copyright>
+    <lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://eternidad33.github.io/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>m10c主题配置</title>
+      <link>https://eternidad33.github.io/posts/m10c%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eternidad33.github.io/posts/m10c%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</guid>
+      <description>m10c主题配置 主题地址：GitHub仓库地址
+title = &amp;#34;Vigilr的博客&amp;#34;[params]description = &amp;#34;宁为玉碎，不为瓦全&amp;#34;avatar = &amp;#34;avatar.jpg&amp;#34;[[params.social]]name = &amp;#34;github&amp;#34;url = &amp;#34;https://github.com/eternidad33&amp;#34;[[params.social]]name = &amp;#34;mail&amp;#34;url = &amp;#34;mailto:3496655347@qq.com&amp;#34;[[params.social]]name = &amp;#34;link&amp;#34;url = &amp;#34;https://blog.csdn.net/qq_42907802&amp;#34;主题仓库要下载到站点目录/themes下
+文章目录为：站点目录/content/posts
+头像的路径：站点目录/static/avatar.jpg
+只是简单地设计了几个链接，链接的图标在主题目录/data/m10c/icons.json文件中定义
+博客启动：hugo server -t hugo-theme-m10c -D
+浏览器访问:http://localhost:1313/
+至此博客启动成功</description>
+    </item>
+    
+  </channel>
+</rss>
