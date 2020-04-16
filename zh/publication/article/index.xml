@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>article on Vigilr的博客</title>
+    <link>https://eternidad33.github.io/zh/publication/article/</link>
+    <description>Recent content in article on Vigilr的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>3496655347@qq.com (Vigilr)</managingEditor>
+    <webMaster>3496655347@qq.com (Vigilr)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
+    <sy:updatePeriod>monthly</sy:updatePeriod>
+    
+        <atom:link href="https://eternidad33.github.io/zh/publication/article/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Good Title</title>
+        <link>https://eternidad33.github.io/zh/publication/article/article_any_folder_name_1/</link>
+        <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+        <author>3496655347@qq.com (Vigilr)</author>
+        <atom:modified>Fri, 01 Jun 2018 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/publication/article/article_any_folder_name_1/</guid>
+        <description></description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
