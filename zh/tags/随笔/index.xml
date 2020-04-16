@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>随笔 on Vigilr的博客</title>
+    <link>https://eternidad33.github.io/zh/tags/%E9%9A%8F%E7%AC%94/</link>
+    <description>Recent content in 随笔 on Vigilr的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>3496655347@qq.com (Vigilr)</managingEditor>
+    <webMaster>3496655347@qq.com (Vigilr)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <sy:updatePeriod>monthly</sy:updatePeriod>
+    
+        <atom:link href="https://eternidad33.github.io/zh/tags/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>网站推荐</title>
+        <link>https://eternidad33.github.io/zh/posts/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</link>
+        <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+        <author>3496655347@qq.com (Vigilr)</author>
+        <atom:modified>Tue, 10 Mar 2020 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</guid>
+        <description>学习类 中国大学MOOC（涵盖各个行业的课程） 慕课网（计算机互联网行业学习的网站） 哔哩哔哩（各个领域的UP主） w3cSchool（学习编程） 廖</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>随笔</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
