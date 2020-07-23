@@ -14,7 +14,7 @@
     <managingEditor>3496655347@qq.com (Vigilr)</managingEditor>
     <webMaster>3496655347@qq.com (Vigilr)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>monthly</sy:updatePeriod>
     
         <atom:link href="https://eternidad33.github.io/zh/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -22,6 +22,36 @@
     
     
 
+      
+      <item>
+        <title>自定义GitHub主页</title>
+        <link>https://eternidad33.github.io/zh/posts/%E8%87%AA%E5%AE%9A%E4%B9%89github%E4%B8%BB%E9%A1%B5/</link>
+        <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+        <author>3496655347@qq.com (Vigilr)</author>
+        <atom:modified>Mon, 20 Jul 2020 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/%E8%87%AA%E5%AE%9A%E4%B9%89github%E4%B8%BB%E9%A1%B5/</guid>
+        <description>欢迎大家访问我的github 创建以用户名为名称的仓库 自定义自己的README文件即可在自己的github显示了 我这个上边显示的编码时长，是添</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>github</category>
+            
+          
+        
+        
+          
+            
+              <category>随笔</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Python三种连接数据库的方式</title>
