@@ -14,7 +14,7 @@
     <managingEditor>3496655347@qq.com (Vigilr)</managingEditor>
     <webMaster>3496655347@qq.com (Vigilr)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>monthly</sy:updatePeriod>
     
         <atom:link href="https://eternidad33.github.io/zh/tags/java/index.xml" rel="self" type="application/rss+xml" />
@@ -22,6 +22,36 @@
     
     
 
+      
+      <item>
+        <title>阿里云宝塔面板配置及部署Java项目</title>
+        <link>https://eternidad33.github.io/zh/posts/%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E9%85%8D%E7%BD%AE/</link>
+        <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+        <author>3496655347@qq.com (Vigilr)</author>
+        <atom:modified>Tue, 16 Jun 2020 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E9%85%8D%E7%BD%AE/</guid>
+        <description>购买服务器 直接购买皆可以了 有活动时购买比较便宜，我记得曾经有个活动是70一年的服务器 现在购买可以91.8一年 学生购买是9.50一个月（参与云</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>java</category>
+            
+          
+        
+        
+          
+            
+              <category>随笔</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>SpringBoot 必备注解</title>

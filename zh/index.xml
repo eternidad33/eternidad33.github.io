@@ -45,6 +45,100 @@
 
       
       <item>
+        <title>Python三种连接数据库的方式</title>
+        <link>https://eternidad33.github.io/zh/posts/python%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93/</link>
+        <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+        <author>3496655347@qq.com (Vigilr)</author>
+        <atom:modified>Wed, 17 Jun 2020 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/python%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93/</guid>
+        <description>连接SQLite 要操作关系数据库，首先需要连接到数据库，一个数据库连接称为Connection； 连接到数据库后，需要打开游标，称之为Curs</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>开发</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>阿里云宝塔面板配置及部署Java项目</title>
+        <link>https://eternidad33.github.io/zh/posts/%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E9%85%8D%E7%BD%AE/</link>
+        <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+        <author>3496655347@qq.com (Vigilr)</author>
+        <atom:modified>Tue, 16 Jun 2020 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E9%85%8D%E7%BD%AE/</guid>
+        <description>购买服务器 直接购买皆可以了 有活动时购买比较便宜，我记得曾经有个活动是70一年的服务器 现在购买可以91.8一年 学生购买是9.50一个月（参与云</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>java</category>
+            
+          
+        
+        
+          
+            
+              <category>随笔</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Scrapy 框架笔记</title>
+        <link>https://eternidad33.github.io/zh/posts/scrapy/</link>
+        <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+        <author>3496655347@qq.com (Vigilr)</author>
+        <atom:modified>Thu, 11 Jun 2020 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/scrapy/</guid>
+        <description>Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing. ​ &amp;mdash;&amp;mdash;&amp;mdash;来自官方文档的介</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>爬虫</category>
+            
+          
+        
+        
+          
+            
+              <category>随笔</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
         <title>JavaScript DOM 操作</title>
         <link>https://eternidad33.github.io/zh/posts/javascript-dom%E6%93%8D%E4%BD%9C/</link>
         <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>

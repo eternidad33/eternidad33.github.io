@@ -14,7 +14,7 @@
     <managingEditor>3496655347@qq.com (Vigilr)</managingEditor>
     <webMaster>3496655347@qq.com (Vigilr)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>monthly</sy:updatePeriod>
     
         <atom:link href="https://eternidad33.github.io/zh/categories/%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
@@ -22,6 +22,36 @@
     
     
 
+      
+      <item>
+        <title>Python三种连接数据库的方式</title>
+        <link>https://eternidad33.github.io/zh/posts/python%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93/</link>
+        <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+        <author>3496655347@qq.com (Vigilr)</author>
+        <atom:modified>Wed, 17 Jun 2020 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/python%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93/</guid>
+        <description>连接SQLite 要操作关系数据库，首先需要连接到数据库，一个数据库连接称为Connection； 连接到数据库后，需要打开游标，称之为Curs</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>开发</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>JavaScript DOM 操作</title>
