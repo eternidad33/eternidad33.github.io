@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>随笔 on Vigilr的博客</title>
+    <link>https://eternidad33.github.io/zh/categories/%E9%9A%8F%E7%AC%94/</link>
+    <description>Recent content in 随笔 on Vigilr的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>3496655347@qq.com (Vigilr)</managingEditor>
+    <webMaster>3496655347@qq.com (Vigilr)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 15 Apr 2020 14:38:28 +0800</lastBuildDate>
+    <sy:updatePeriod>monthly</sy:updatePeriod>
+    
+        <atom:link href="https://eternidad33.github.io/zh/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>小白必看，用Markdown代码写出好看的页面</title>
+        <link>https://eternidad33.github.io/zh/posts/%E5%B0%8F%E7%99%BD%E5%BF%85%E7%9C%8B%E7%94%A8markdown%E4%BB%A3%E7%A0%81%E5%86%99%E5%87%BA%E5%A5%BD%E7%9C%8B%E7%9A%84%E9%A1%B5%E9%9D%A2/</link>
+        <pubDate>Wed, 15 Apr 2020 14:38:28 +0800</pubDate>
+        <author>3496655347@qq.com (Vigilr)</author>
+        <atom:modified>Wed, 15 Apr 2020 14:38:28 +0800</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/%E5%B0%8F%E7%99%BD%E5%BF%85%E7%9C%8B%E7%94%A8markdown%E4%BB%A3%E7%A0%81%E5%86%99%E5%87%BA%E5%A5%BD%E7%9C%8B%E7%9A%84%E9%A1%B5%E9%9D%A2/</guid>
+        <description>作为一个学习计算机相关知识的人，如果不经常写博客，就容易把刚学到的知识忘记，写博客是一个很好的学习习惯，而写好博客也就是要学会熟练使用 Mar</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>markdown</category>
+            
+          
+        
+        
+          
+            
+              <category>随笔</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>idea使用技巧总结</title>
+        <link>https://eternidad33.github.io/zh/posts/idea%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7%E6%80%BB%E7%BB%93/</link>
+        <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+        <author>3496655347@qq.com (Vigilr)</author>
+        <atom:modified>Tue, 14 Apr 2020 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/idea%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7%E6%80%BB%E7%BB%93/</guid>
+        <description>开发工具 IDEA 从入门到爱不释手-课程笔记 1-1 代码生成 Generate Alt+Insert,或者右键-Generate：生成 getter 或 setter 1-2 高效的代码编辑技能 快捷键 功能 Ctrl+Alt+L</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>idea</category>
+            
+          
+        
+        
+          
+            
+              <category>随笔</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>m10c主题配置</title>
+        <link>https://eternidad33.github.io/zh/posts/m10c%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</link>
+        <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+        <author>3496655347@qq.com (Vigilr)</author>
+        <atom:modified>Tue, 14 Apr 2020 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/m10c%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</guid>
+        <description>m10c 主题配置 主题地址：GitHub 仓库地址 1 2 3 4 5 6 7 8 9 10 11 12 13 14 title = &amp;#34;Vigilr的博客&amp;#34; [params] description = &amp;#34;宁为玉碎，不为</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+            
+              <category>theme</category>
+            
+          
+        
+        
+          
+            
+              <category>随笔</category>
+            
+          
+        
+        
+          
+            
+              <category>个人博客</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Hugo博客搭建</title>
+        <link>https://eternidad33.github.io/zh/posts/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+        <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+        <author>3496655347@qq.com (Vigilr)</author>
+        <atom:modified>Mon, 13 Apr 2020 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+        <description>Hugo 博客搭建 本地部署 推荐视频：手把手教你从 0 开始搭建自己的个人博客 |第二种姿势 | hugo 下载 Hugo，下载地址：GitHub 配置环境变量 创建自己的站</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+          
+            
+              <category>随笔</category>
+            
+          
+        
+        
+          
+            
+              <category>个人博客</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>码云上搭建Hexo博客</title>
+        <link>https://eternidad33.github.io/zh/posts/%E7%A0%81%E4%BA%91%E4%B8%8A%E6%90%AD%E5%BB%BAhexo%E5%8D%9A%E5%AE%A2/</link>
+        <pubDate>Fri, 03 Apr 2020 20:06:14 +0800</pubDate>
+        <author>3496655347@qq.com (Vigilr)</author>
+        <atom:modified>Fri, 03 Apr 2020 20:06:14 +0800</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/%E7%A0%81%E4%BA%91%E4%B8%8A%E6%90%AD%E5%BB%BAhexo%E5%8D%9A%E5%AE%A2/</guid>
+        <description>码云上搭建 Hexo 静态博客 下载 Node.js 下载并配置 Git 安装 Hexo 设置 cnpm，设置为国内的淘宝镜像npm install -g cnpm --registry=https://registry.npm.taobao.org 安装 Hexo， cnpm install -g hexo-cli 查看是否安装成功 hexo -v 建立博</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>hexo</category>
+            
+          
+        
+        
+          
+            
+              <category>随笔</category>
+            
+          
+        
+        
+          
+            
+              <category>个人博客</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>网站推荐</title>
+        <link>https://eternidad33.github.io/zh/posts/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</link>
+        <pubDate>Tue, 10 Mar 2020 20:06:14 +0800</pubDate>
+        <author>3496655347@qq.com (Vigilr)</author>
+        <atom:modified>Tue, 10 Mar 2020 20:06:14 +0800</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</guid>
+        <description>学习类 中国大学 MOOC（涵盖各个行业的课程） 慕课网（计算机互联网行业学习的网站） 哔哩哔哩（各个领域的 UP 主） w3cSchool（学习编程） 廖雪</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+        
+          
+            
+              <category>随笔</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>VSCode插件推荐</title>
+        <link>https://eternidad33.github.io/zh/posts/vscode%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90/</link>
+        <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+        <author>3496655347@qq.com (Vigilr)</author>
+        <atom:modified>Sat, 29 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/vscode%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90/</guid>
+        <description>1. Alibaba Cloud Tookit Cloud Toolkit 是免费的本地 IDE 插件，帮助开发者更高效地开发、测试、诊断并部署应用。通过插件，可以将本地应用一键部署到任意服务器，甚至云端（ECS</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+        
+          
+            
+              <category>随笔</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

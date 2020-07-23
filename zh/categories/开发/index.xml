@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>开发 on Vigilr的博客</title>
+    <link>https://eternidad33.github.io/zh/categories/%E5%BC%80%E5%8F%91/</link>
+    <description>Recent content in 开发 on Vigilr的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>3496655347@qq.com (Vigilr)</managingEditor>
+    <webMaster>3496655347@qq.com (Vigilr)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
+    <sy:updatePeriod>monthly</sy:updatePeriod>
+    
+        <atom:link href="https://eternidad33.github.io/zh/categories/%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>JavaScript DOM 操作</title>
+        <link>https://eternidad33.github.io/zh/posts/javascript-dom%E6%93%8D%E4%BD%9C/</link>
+        <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+        <author>3496655347@qq.com (Vigilr)</author>
+        <atom:modified>Thu, 28 May 2020 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/javascript-dom%E6%93%8D%E4%BD%9C/</guid>
+        <description>基础页面 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 &amp;lt;body&amp;gt; &amp;lt;div class=&amp;#34;main&amp;#34;&amp;gt; &amp;lt;h2&amp;gt;前端语言&amp;lt;/h2&amp;gt; &amp;lt;ul id=&amp;#34;List1&amp;#34;&amp;gt; &amp;lt;li id=&amp;#34;li1&amp;#34;&amp;gt;HTML&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;CSS&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;JavaScript&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;h2&amp;gt;后端语</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>JavaScript</category>
+            
+          
+            
+              <category>html</category>
+            
+          
+        
+        
+          
+            
+              <category>开发</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>SpringBoot 必备注解</title>
+        <link>https://eternidad33.github.io/zh/posts/springboot%E5%BF%85%E5%A4%87%E6%B3%A8%E8%A7%A3/</link>
+        <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+        <author>3496655347@qq.com (Vigilr)</author>
+        <atom:modified>Sun, 24 May 2020 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/springboot%E5%BF%85%E5%A4%87%E6%B3%A8%E8%A7%A3/</guid>
+        <description>项目配置 @Value(“${变量名}”) 变量名：配置文件中的全局变量 1 2 3 4 @Value(&amp;#34;${name}&amp;#34;) private String name; @Value(&amp;#34;${desc}&amp;#34;) private String desc; yml配置文件中的配置 1 2 name:维吉尔des</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>java</category>
+            
+          
+            
+              <category>springboot</category>
+            
+          
+        
+        
+          
+            
+              <category>开发</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>简易的图书管理系统(Java&#43;MySQL8.0)</title>
+        <link>https://eternidad33.github.io/zh/posts/%E7%AE%80%E6%98%93%E7%9A%84%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fjava&#43;mysql8.0/</link>
+        <pubDate>Sat, 18 Apr 2020 10:59:01 +0800</pubDate>
+        <author>3496655347@qq.com (Vigilr)</author>
+        <atom:modified>Sat, 18 Apr 2020 10:59:01 +0800</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/%E7%AE%80%E6%98%93%E7%9A%84%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fjava&#43;mysql8.0/</guid>
+        <description>[toc] 简易的图书管理系统 项目简介 推荐视频：JAVA+MySql 图书管理系统，技术:Swing+jdbc+mysql 用到的知识：Java，MySQ</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>java</category>
+            
+          
+            
+              <category>mysql</category>
+            
+          
+        
+        
+          
+            
+              <category>开发</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>小程序基本架构</title>
+        <link>https://eternidad33.github.io/zh/posts/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%9F%BA%E6%9C%AC%E6%9E%B6%E6%9E%84/</link>
+        <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+        <author>3496655347@qq.com (Vigilr)</author>
+        <atom:modified>Fri, 17 Apr 2020 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%9F%BA%E6%9C%AC%E6%9E%B6%E6%9E%84/</guid>
+        <description>小程序基本架构 基本架构 利用 app.json文件对小程序进行全局配置 利用同名.json文件对本页面窗口表现进行配置 全局配置 属性 类型 必填 描述 pages string</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+        
+          
+            
+              <category>开发</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
