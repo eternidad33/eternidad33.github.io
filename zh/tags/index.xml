@@ -11,10 +11,10 @@
     <description>Recent content in Tags on Vigilr的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>3496655347@qq.com (Vigilr)</managingEditor>
-    <webMaster>3496655347@qq.com (Vigilr)</webMaster>
+    <managingEditor>tfl2020@foxmail.com (Vigilr)</managingEditor>
+    <webMaster>tfl2020@foxmail.com (Vigilr)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>monthly</sy:updatePeriod>
     
         <atom:link href="https://eternidad33.github.io/zh/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -24,10 +24,28 @@
 
       
       <item>
+        <title>java</title>
+        <link>https://eternidad33.github.io/zh/tags/java/</link>
+        <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
+        
+        <guid>https://eternidad33.github.io/zh/tags/java/</guid>
+        <description></description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>github</title>
         <link>https://eternidad33.github.io/zh/tags/github/</link>
         <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         
         <guid>https://eternidad33.github.io/zh/tags/github/</guid>
         <description></description>
@@ -45,27 +63,9 @@
         <title>python</title>
         <link>https://eternidad33.github.io/zh/tags/python/</link>
         <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         
         <guid>https://eternidad33.github.io/zh/tags/python/</guid>
-        <description></description>
-        
-        <dc:creator>Vigilr</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>java</title>
-        <link>https://eternidad33.github.io/zh/tags/java/</link>
-        <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
-        
-        <guid>https://eternidad33.github.io/zh/tags/java/</guid>
         <description></description>
         
         <dc:creator>Vigilr</dc:creator>
@@ -81,7 +81,7 @@
         <title>爬虫</title>
         <link>https://eternidad33.github.io/zh/tags/%E7%88%AC%E8%99%AB/</link>
         <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         
         <guid>https://eternidad33.github.io/zh/tags/%E7%88%AC%E8%99%AB/</guid>
         <description></description>
@@ -99,7 +99,7 @@
         <title>html</title>
         <link>https://eternidad33.github.io/zh/tags/html/</link>
         <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         
         <guid>https://eternidad33.github.io/zh/tags/html/</guid>
         <description></description>
@@ -117,7 +117,7 @@
         <title>JavaScript</title>
         <link>https://eternidad33.github.io/zh/tags/javascript/</link>
         <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         
         <guid>https://eternidad33.github.io/zh/tags/javascript/</guid>
         <description></description>
@@ -135,7 +135,7 @@
         <title>springboot</title>
         <link>https://eternidad33.github.io/zh/tags/springboot/</link>
         <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         
         <guid>https://eternidad33.github.io/zh/tags/springboot/</guid>
         <description></description>
@@ -153,7 +153,7 @@
         <title>mysql</title>
         <link>https://eternidad33.github.io/zh/tags/mysql/</link>
         <pubDate>Sat, 18 Apr 2020 10:59:01 +0800</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         
         <guid>https://eternidad33.github.io/zh/tags/mysql/</guid>
         <description></description>
@@ -171,7 +171,7 @@
         <title>markdown</title>
         <link>https://eternidad33.github.io/zh/tags/markdown/</link>
         <pubDate>Wed, 15 Apr 2020 14:38:28 +0800</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         
         <guid>https://eternidad33.github.io/zh/tags/markdown/</guid>
         <description></description>
@@ -189,7 +189,7 @@
         <title>hugo</title>
         <link>https://eternidad33.github.io/zh/tags/hugo/</link>
         <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         
         <guid>https://eternidad33.github.io/zh/tags/hugo/</guid>
         <description></description>
@@ -207,7 +207,7 @@
         <title>idea</title>
         <link>https://eternidad33.github.io/zh/tags/idea/</link>
         <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         
         <guid>https://eternidad33.github.io/zh/tags/idea/</guid>
         <description></description>
@@ -225,7 +225,7 @@
         <title>theme</title>
         <link>https://eternidad33.github.io/zh/tags/theme/</link>
         <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         
         <guid>https://eternidad33.github.io/zh/tags/theme/</guid>
         <description></description>
@@ -243,7 +243,7 @@
         <title>hexo</title>
         <link>https://eternidad33.github.io/zh/tags/hexo/</link>
         <pubDate>Fri, 03 Apr 2020 20:06:14 +0800</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         
         <guid>https://eternidad33.github.io/zh/tags/hexo/</guid>
         <description></description>

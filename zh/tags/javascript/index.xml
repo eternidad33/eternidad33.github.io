@@ -11,8 +11,8 @@
     <description>Recent content in JavaScript on Vigilr的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>3496655347@qq.com (Vigilr)</managingEditor>
-    <webMaster>3496655347@qq.com (Vigilr)</webMaster>
+    <managingEditor>tfl2020@foxmail.com (Vigilr)</managingEditor>
+    <webMaster>tfl2020@foxmail.com (Vigilr)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>monthly</sy:updatePeriod>
@@ -27,7 +27,7 @@
         <title>JavaScript DOM 操作</title>
         <link>https://eternidad33.github.io/zh/posts/javascript-dom%E6%93%8D%E4%BD%9C/</link>
         <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         <atom:modified>Thu, 28 May 2020 00:00:00 +0000</atom:modified>
         <guid>https://eternidad33.github.io/zh/posts/javascript-dom%E6%93%8D%E4%BD%9C/</guid>
         <description>基础页面 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 &amp;lt;body&amp;gt; &amp;lt;div class=&amp;#34;main&amp;#34;&amp;gt; &amp;lt;h2&amp;gt;前端语言&amp;lt;/h2&amp;gt; &amp;lt;ul id=&amp;#34;List1&amp;#34;&amp;gt; &amp;lt;li id=&amp;#34;li1&amp;#34;&amp;gt;HTML&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;CSS&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;JavaScript&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;h2&amp;gt;后端语</description>

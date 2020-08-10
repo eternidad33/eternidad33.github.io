@@ -11,8 +11,8 @@
     <description>Recent content in themes on Vigilr&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>3496655347@qq.com (Vigilr)</managingEditor>
-    <webMaster>3496655347@qq.com (Vigilr)</webMaster>
+    <managingEditor>tfl2020@foxmail.com (Vigilr)</managingEditor>
+    <webMaster>tfl2020@foxmail.com (Vigilr)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>monthly</sy:updatePeriod>
@@ -27,7 +27,7 @@
         <title>Markdown Syntax Guide</title>
         <link>https://eternidad33.github.io/en/posts/markdown-syntax/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         <atom:modified>Fri, 20 Dec 2019 12:00:06 +0900</atom:modified>
         <guid>https://eternidad33.github.io/en/posts/markdown-syntax/</guid>
         <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>

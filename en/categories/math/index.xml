@@ -11,8 +11,8 @@
     <description>Recent content in math on Vigilr&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>3496655347@qq.com (Vigilr)</managingEditor>
-    <webMaster>3496655347@qq.com (Vigilr)</webMaster>
+    <managingEditor>tfl2020@foxmail.com (Vigilr)</managingEditor>
+    <webMaster>tfl2020@foxmail.com (Vigilr)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 16 Nov 2019 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>monthly</sy:updatePeriod>
@@ -27,7 +27,7 @@
         <title>MathJax support</title>
         <link>https://eternidad33.github.io/en/posts/test-mathjax/</link>
         <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         <atom:modified>Sat, 16 Nov 2019 12:00:06 +0900</atom:modified>
         <guid>https://eternidad33.github.io/en/posts/test-mathjax/</guid>
         <description>When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
@@ -60,7 +60,7 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</description>
         <title>Katex support</title>
         <link>https://eternidad33.github.io/en/posts/test-katex/</link>
         <pubDate>Fri, 15 Nov 2019 12:00:06 +0900</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         <atom:modified>Fri, 15 Nov 2019 12:00:06 +0900</atom:modified>
         <guid>https://eternidad33.github.io/en/posts/test-katex/</guid>
         <description>The following

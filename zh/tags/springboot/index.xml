@@ -11,8 +11,8 @@
     <description>Recent content in springboot on Vigilr的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>3496655347@qq.com (Vigilr)</managingEditor>
-    <webMaster>3496655347@qq.com (Vigilr)</webMaster>
+    <managingEditor>tfl2020@foxmail.com (Vigilr)</managingEditor>
+    <webMaster>tfl2020@foxmail.com (Vigilr)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>monthly</sy:updatePeriod>
@@ -27,7 +27,7 @@
         <title>SpringBoot 必备注解</title>
         <link>https://eternidad33.github.io/zh/posts/springboot%E5%BF%85%E5%A4%87%E6%B3%A8%E8%A7%A3/</link>
         <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         <atom:modified>Sun, 24 May 2020 00:00:00 +0000</atom:modified>
         <guid>https://eternidad33.github.io/zh/posts/springboot%E5%BF%85%E5%A4%87%E6%B3%A8%E8%A7%A3/</guid>
         <description>项目配置 @Value(“${变量名}”) 变量名：配置文件中的全局变量 1 2 3 4 @Value(&amp;#34;${name}&amp;#34;) private String name; @Value(&amp;#34;${desc}&amp;#34;) private String desc; yml配置文件中的配置 1 2 name:维吉尔des</description>

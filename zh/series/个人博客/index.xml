@@ -11,8 +11,8 @@
     <description>Recent content in 个人博客 on Vigilr的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>3496655347@qq.com (Vigilr)</managingEditor>
-    <webMaster>3496655347@qq.com (Vigilr)</webMaster>
+    <managingEditor>tfl2020@foxmail.com (Vigilr)</managingEditor>
+    <webMaster>tfl2020@foxmail.com (Vigilr)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>monthly</sy:updatePeriod>
@@ -27,7 +27,7 @@
         <title>m10c主题配置</title>
         <link>https://eternidad33.github.io/zh/posts/m10c%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</link>
         <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         <atom:modified>Tue, 14 Apr 2020 00:00:00 +0000</atom:modified>
         <guid>https://eternidad33.github.io/zh/posts/m10c%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</guid>
         <description>m10c 主题配置 主题地址：GitHub 仓库地址 1 2 3 4 5 6 7 8 9 10 11 12 13 14 title = &amp;#34;Vigilr的博客&amp;#34; [params] description = &amp;#34;宁为玉碎，不为</description>
@@ -67,7 +67,7 @@
         <title>Hugo博客搭建</title>
         <link>https://eternidad33.github.io/zh/posts/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
         <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         <atom:modified>Mon, 13 Apr 2020 00:00:00 +0000</atom:modified>
         <guid>https://eternidad33.github.io/zh/posts/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
         <description>Hugo 博客搭建 本地部署 推荐视频：手把手教你从 0 开始搭建自己的个人博客 |第二种姿势 | hugo 下载 Hugo，下载地址：GitHub 配置环境变量 创建自己的站</description>
@@ -103,7 +103,7 @@
         <title>码云上搭建Hexo博客</title>
         <link>https://eternidad33.github.io/zh/posts/%E7%A0%81%E4%BA%91%E4%B8%8A%E6%90%AD%E5%BB%BAhexo%E5%8D%9A%E5%AE%A2/</link>
         <pubDate>Fri, 03 Apr 2020 20:06:14 +0800</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         <atom:modified>Fri, 03 Apr 2020 20:06:14 +0800</atom:modified>
         <guid>https://eternidad33.github.io/zh/posts/%E7%A0%81%E4%BA%91%E4%B8%8A%E6%90%AD%E5%BB%BAhexo%E5%8D%9A%E5%AE%A2/</guid>
         <description>码云上搭建 Hexo 静态博客 下载 Node.js 下载并配置 Git 安装 Hexo 设置 cnpm，设置为国内的淘宝镜像npm install -g cnpm --registry=https://registry.npm.taobao.org 安装 Hexo， cnpm install -g hexo-cli 查看是否安装成功 hexo -v 建立博</description>

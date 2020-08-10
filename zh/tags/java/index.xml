@@ -11,10 +11,10 @@
     <description>Recent content in java on Vigilr的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>3496655347@qq.com (Vigilr)</managingEditor>
-    <webMaster>3496655347@qq.com (Vigilr)</webMaster>
+    <managingEditor>tfl2020@foxmail.com (Vigilr)</managingEditor>
+    <webMaster>tfl2020@foxmail.com (Vigilr)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>monthly</sy:updatePeriod>
     
         <atom:link href="https://eternidad33.github.io/zh/tags/java/index.xml" rel="self" type="application/rss+xml" />
@@ -24,10 +24,40 @@
 
       
       <item>
+        <title>历年 CCF CSP 认证第一题 Java 题解</title>
+        <link>https://eternidad33.github.io/zh/posts/%E5%8E%86%E5%B9%B4-ccf-csp-%E8%AE%A4%E8%AF%81%E7%AC%AC%E4%B8%80%E9%A2%98-java-%E9%A2%98%E8%A7%A3/</link>
+        <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
+        <atom:modified>Fri, 07 Aug 2020 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/%E5%8E%86%E5%B9%B4-ccf-csp-%E8%AE%A4%E8%AF%81%E7%AC%AC%E4%B8%80%E9%A2%98-java-%E9%A2%98%E8%A7%A3/</guid>
+        <description>历年 CCF CSP 认证第一题 Java 题解 目前只做完了第一题，第 2、3、4、5 题还没有看，源码已上传至GitHub和码云 试题编号 试题名称 最高得分 202006-1 线性分类器 100</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>java</category>
+            
+          
+        
+        
+          
+            
+              <category>随笔</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
         <title>阿里云宝塔面板配置及部署Java项目</title>
         <link>https://eternidad33.github.io/zh/posts/%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E9%85%8D%E7%BD%AE/</link>
         <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         <atom:modified>Tue, 16 Jun 2020 00:00:00 +0000</atom:modified>
         <guid>https://eternidad33.github.io/zh/posts/%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF%E9%85%8D%E7%BD%AE/</guid>
         <description>购买服务器 直接购买皆可以了 有活动时购买比较便宜，我记得曾经有个活动是70一年的服务器 现在购买可以91.8一年 学生购买是9.50一个月（参与云</description>
@@ -57,7 +87,7 @@
         <title>SpringBoot 必备注解</title>
         <link>https://eternidad33.github.io/zh/posts/springboot%E5%BF%85%E5%A4%87%E6%B3%A8%E8%A7%A3/</link>
         <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         <atom:modified>Sun, 24 May 2020 00:00:00 +0000</atom:modified>
         <guid>https://eternidad33.github.io/zh/posts/springboot%E5%BF%85%E5%A4%87%E6%B3%A8%E8%A7%A3/</guid>
         <description>项目配置 @Value(“${变量名}”) 变量名：配置文件中的全局变量 1 2 3 4 @Value(&amp;#34;${name}&amp;#34;) private String name; @Value(&amp;#34;${desc}&amp;#34;) private String desc; yml配置文件中的配置 1 2 name:维吉尔des</description>
@@ -91,7 +121,7 @@
         <title>简易的图书管理系统(Java&#43;MySQL8.0)</title>
         <link>https://eternidad33.github.io/zh/posts/%E7%AE%80%E6%98%93%E7%9A%84%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fjava&#43;mysql8.0/</link>
         <pubDate>Sat, 18 Apr 2020 10:59:01 +0800</pubDate>
-        <author>3496655347@qq.com (Vigilr)</author>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
         <atom:modified>Sat, 18 Apr 2020 10:59:01 +0800</atom:modified>
         <guid>https://eternidad33.github.io/zh/posts/%E7%AE%80%E6%98%93%E7%9A%84%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9Fjava&#43;mysql8.0/</guid>
         <description>[toc] 简易的图书管理系统 项目简介 推荐视频：JAVA+MySql 图书管理系统，技术:Swing+jdbc+mysql 用到的知识：Java，MySQ</description>

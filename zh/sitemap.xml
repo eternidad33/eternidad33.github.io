@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://eternidad33.github.io/zh/categories/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,13 +18,13 @@
   </url>
   
   <url>
-    <loc>https://eternidad33.github.io/zh/tags/github/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <loc>https://eternidad33.github.io/zh/tags/java/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://eternidad33.github.io/zh/tags/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,8 +38,13 @@
   </url>
   
   <url>
+    <loc>https://eternidad33.github.io/zh/posts/%E5%8E%86%E5%B9%B4-ccf-csp-%E8%AE%A4%E8%AF%81%E7%AC%AC%E4%B8%80%E9%A2%98-java-%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eternidad33.github.io/zh/posts/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -53,12 +58,17 @@
   </url>
   
   <url>
-    <loc>https://eternidad33.github.io/zh/posts/%E8%87%AA%E5%AE%9A%E4%B9%89github%E4%B8%BB%E9%A1%B5/</loc>
+    <loc>https://eternidad33.github.io/zh/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eternidad33.github.io/zh/tags/github/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eternidad33.github.io/zh/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://eternidad33.github.io/zh/posts/%E8%87%AA%E5%AE%9A%E4%B9%89github%E4%B8%BB%E9%A1%B5/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -75,11 +85,6 @@
   <url>
     <loc>https://eternidad33.github.io/zh/categories/%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eternidad33.github.io/zh/tags/java/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
