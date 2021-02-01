@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>JavaScript on Vigilr的博客</title>
+    <title>javaScript on Vigilr的博客</title>
     <link>https://eternidad33.github.io/zh/tags/javascript/</link>
-    <description>Recent content in JavaScript on Vigilr的博客</description>
+    <description>Recent content in javaScript on Vigilr的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>tfl2020@foxmail.com (Vigilr)</managingEditor>
@@ -39,7 +39,7 @@
         
           
             
-              <category>JavaScript</category>
+              <category>javaScript</category>
             
           
             
