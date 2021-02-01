@@ -14,7 +14,7 @@
     <managingEditor>tfl2020@foxmail.com (Vigilr)</managingEditor>
     <webMaster>tfl2020@foxmail.com (Vigilr)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>monthly</sy:updatePeriod>
     
         <atom:link href="https://eternidad33.github.io/zh/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -22,6 +22,40 @@
     
     
 
+      
+      <item>
+        <title>【干货】Java集合</title>
+        <link>https://eternidad33.github.io/zh/posts/java%E9%9B%86%E5%90%88/</link>
+        <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
+        <atom:modified>Sat, 30 Jan 2021 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/java%E9%9B%86%E5%90%88/</guid>
+        <description>Collection结构图 Map结构图 总结 推荐视频：Java零基础教程视频（适合Java 0基础，Java初学入门） ArrayList：底层是</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Java</category>
+            
+          
+            
+              <category>集合</category>
+            
+          
+        
+        
+          
+            
+              <category>开发</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>自定义GitHub主页</title>
@@ -406,6 +440,40 @@
               <category>个人博客</category>
             
           
+        
+      </item>
+      
+      <item>
+        <title>JavaSE 学习笔记</title>
+        <link>https://eternidad33.github.io/zh/posts/java%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+        <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
+        <atom:modified>Fri, 10 Apr 2020 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/java%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+        <description>推荐书籍： 《Java 编程的逻辑》 《疯狂 Java 讲义精粹》 Java 基础 从当前所在路径加载类SET ClASSPATH=. PATH：是操作系统提供的路径配置，定义所有可执行程序的</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Java</category>
+            
+          
+            
+              <category>笔记</category>
+            
+          
+        
+        
+          
+            
+              <category>开发</category>
+            
+          
+        
         
       </item>
       

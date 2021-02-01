@@ -14,7 +14,7 @@
     <managingEditor>tfl2020@foxmail.com (Vigilr)</managingEditor>
     <webMaster>tfl2020@foxmail.com (Vigilr)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>monthly</sy:updatePeriod>
     
         <atom:link href="https://eternidad33.github.io/zh/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -24,12 +24,12 @@
 
       
       <item>
-        <title>随笔</title>
-        <link>https://eternidad33.github.io/zh/categories/%E9%9A%8F%E7%AC%94/</link>
-        <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+        <title>开发</title>
+        <link>https://eternidad33.github.io/zh/categories/%E5%BC%80%E5%8F%91/</link>
+        <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
         <author>tfl2020@foxmail.com (Vigilr)</author>
         
-        <guid>https://eternidad33.github.io/zh/categories/%E9%9A%8F%E7%AC%94/</guid>
+        <guid>https://eternidad33.github.io/zh/categories/%E5%BC%80%E5%8F%91/</guid>
         <description></description>
         
         <dc:creator>Vigilr</dc:creator>
@@ -42,12 +42,12 @@
       </item>
       
       <item>
-        <title>开发</title>
-        <link>https://eternidad33.github.io/zh/categories/%E5%BC%80%E5%8F%91/</link>
-        <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+        <title>随笔</title>
+        <link>https://eternidad33.github.io/zh/categories/%E9%9A%8F%E7%AC%94/</link>
+        <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
         <author>tfl2020@foxmail.com (Vigilr)</author>
         
-        <guid>https://eternidad33.github.io/zh/categories/%E5%BC%80%E5%8F%91/</guid>
+        <guid>https://eternidad33.github.io/zh/categories/%E9%9A%8F%E7%AC%94/</guid>
         <description></description>
         
         <dc:creator>Vigilr</dc:creator>
