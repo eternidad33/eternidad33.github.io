@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://eternidad33.github.io/zh/categories/</loc>
-    <lastmod>2021-01-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,7 +18,37 @@
   </url>
   
   <url>
+    <loc>https://eternidad33.github.io/zh/posts/</loc>
+    <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eternidad33.github.io/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://eternidad33.github.io/zh/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eternidad33.github.io/zh/posts/%E7%89%9B%E5%AE%A2%E9%AB%98%E8%B5%9E%E8%AF%84%E8%AE%BA/</loc>
+    <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eternidad33.github.io/zh/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eternidad33.github.io/zh/tags/java/</loc>
+    <lastmod>2021-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eternidad33.github.io/zh/posts/java%E9%9B%86%E5%90%88/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,28 +68,8 @@
   </url>
   
   <url>
-    <loc>https://eternidad33.github.io/zh/posts/java%E9%9B%86%E5%90%88/</loc>
-    <lastmod>2021-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://eternidad33.github.io/zh/categories/%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eternidad33.github.io/zh/posts/</loc>
-    <lastmod>2021-01-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eternidad33.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://eternidad33.github.io/zh/posts/"
-                />
   </url>
   
   <url>
@@ -69,11 +79,6 @@
   
   <url>
     <loc>https://eternidad33.github.io/zh/posts/%E8%87%AA%E5%AE%9A%E4%B9%89github%E4%B8%BB%E9%A1%B5/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eternidad33.github.io/zh/categories/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url>
   
