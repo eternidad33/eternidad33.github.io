@@ -48,6 +48,40 @@
       </item>
       
       <item>
+        <title>SpringBoot笔记</title>
+        <link>https://eternidad33.github.io/zh/posts/springboot%E7%AC%94%E8%AE%B0/</link>
+        <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
+        <atom:modified>Tue, 16 Feb 2021 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/springboot%E7%AC%94%E8%AE%B0/</guid>
+        <description>入门 简介 简化spring应用开发的一个框架 整个spring技术栈的一个大集合 J2EE开发的一站式解决方案 微服务 一个应用就是一个小型服务 开发，</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>java</category>
+            
+          
+            
+              <category>springboot</category>
+            
+          
+        
+        
+          
+            
+              <category>开发</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
         <title>Java集合</title>
         <link>https://eternidad33.github.io/zh/posts/java%E9%9B%86%E5%90%88/</link>
         <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
