@@ -14,7 +14,7 @@
     <managingEditor>tfl2020@foxmail.com (Vigilr)</managingEditor>
     <webMaster>tfl2020@foxmail.com (Vigilr)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>monthly</sy:updatePeriod>
     
         <atom:link href="https://eternidad33.github.io/zh/categories/%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
@@ -22,6 +22,42 @@
     
     
 
+      
+      <item>
+        <title>【中科创达】Java方向_初试</title>
+        <link>https://eternidad33.github.io/zh/posts/%E4%B8%AD%E7%A7%91%E5%88%9B%E8%BE%BE%E5%88%9D%E8%AF%95/</link>
+        <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+        <author>tfl2020@foxmail.com (Vigilr)</author>
+        <atom:modified>Thu, 11 Mar 2021 00:00:00 +0000</atom:modified>
+        <guid>https://eternidad33.github.io/zh/posts/%E4%B8%AD%E7%A7%91%E5%88%9B%E8%BE%BE%E5%88%9D%E8%AF%95/</guid>
+        <description>今天是我的第一次面试，面试的时候好紧张，当时说话语无伦次，好多问题感觉都非常基础了，但就是脑子里想的毫无逻辑，用语言也表达不清楚。这次表现的</description>
+        
+        <dc:creator>Vigilr</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>java</category>
+            
+          
+        
+        
+          
+            
+              <category>开发</category>
+            
+          
+        
+        
+          
+            
+              <category>面试</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>SpringBoot笔记</title>
